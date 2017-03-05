@@ -17,6 +17,7 @@ function pesoPlaneta(){
                                                       "<li>" + "Peso en Marte: "+marte.toFixed(2) + "</li>"+
                                                       "<li>" + "Peso en Saturno: "+saturno.toFixed(2) + "</li>"+
                                                       "<li>" + "Peso en Neptuno: "+neptuno.toFixed(2) + "</li>"+
-                                                      "</ul></strong>";}
+                                                      "</ul></strong>";
+                                                    }
 
 }
